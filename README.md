@@ -2,11 +2,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ux7z&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=ux7z&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ux7z&locale=en&hide_title=false&layout=default%20&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ux7z.ux7z&left_color=black&right_color=black&left_text=Views"  />
 
 ###
 
@@ -55,11 +51,5 @@
 <br clear="both">
 
 <img align="right" height="200" src="https://i.imgur.com/o9JwT2D.jpeg"  />
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ux7z.ux7z&left_color=black&right_color=black&left_text=Views"  />
-</div>
 
 ###
